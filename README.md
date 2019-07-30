@@ -37,10 +37,10 @@ npm run dev
 ### Diagrams
 
 #### Activity Diagram
-![activity](images/Proj6-ActivityDiagram.png)
+![Alt activity](Images/Proj6-ActivityDiagram.png)
 #### Sequence Diagram
-![sequence](images/Proj6-Sequence.png)
+![Alt sequence](Images/Proj6-Sequence.png)
 #### State Diagram
-![state](images/Proj6-StateDiagram.png)
+![Alt state](Images/Proj6-StateDiagram.png)
 #### Class Diagram
-![class](images/Proj6ClassDiagram.png)
+![Alt class](Images/Proj6ClassDiagram.png)
